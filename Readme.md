@@ -45,7 +45,7 @@ No additional installations required for any script.
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/rainapoddar601-star/oss-project
+git clone https://github.com/rainapoddar601-star/oss-project.git
 cd oss-project
 ```
 
